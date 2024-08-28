@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544298665185",
+    "project_id": "map2place",
+    "storage_bucket": "map2place.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544298665185:android:1ac61a63768312db5a23a0",
+        "android_client_info": {
+          "package_name": "com.esgi.m2p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544298665185-sns0hj98itoo2u6bcsrcfv6s6utjv0pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esgi.m2p",
+            "certificate_hash": "2fe51f5549127c388b3c6cbf431f17d7092c5df0"
+          }
+        },
+        {
+          "client_id": "544298665185-1ocs327ulb2t7bp248l4jj7mbbciiiqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghsRBLfrM0GLHl4GvNAyF1rU3yUm5kdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544298665185-1ocs327ulb2t7bp248l4jj7mbbciiiqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
